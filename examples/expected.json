@@ -1,0 +1,16 @@
+{
+  "assets": [
+    {
+      "asset": "USD",
+      "available": 80,
+      "coverage": "0.8888888888888888888888888889",
+      "excluded": 20,
+      "liabilities": 90,
+      "surplus": -10
+    }
+  ],
+  "every_asset_covered": false,
+  "liability_value": "9E+1",
+  "reserve_value": "8E+1",
+  "value_surplus": "-1E+1"
+}

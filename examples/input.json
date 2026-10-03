@@ -1,0 +1,20 @@
+{
+  "prices": {
+    "USD": 1
+  },
+  "reserves": [
+    {
+      "id": "r",
+      "asset": "USD",
+      "amount": 100,
+      "encumbered": 20
+    }
+  ],
+  "liabilities": [
+    {
+      "id": "l",
+      "asset": "USD",
+      "amount": 90
+    }
+  ]
+}
